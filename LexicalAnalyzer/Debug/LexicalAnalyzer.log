@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\c语言编程\编译原理\词法分析器\Compiler\LexicalAnalyzer\LexicalAnalyzer\源.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言编程\编译原理\词法分析器\Compiler\LexicalAnalyzer\LexicalAnalyzer\源.cpp(93,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\c语言编程\编译原理\词法分析器\Compiler\LexicalAnalyzer\LexicalAnalyzer\源.cpp(90,7): warning C4101: “ch”: 未引用的局部变量
+  LexicalAnalyzer.vcxproj -> D:\c语言编程\编译原理\词法分析器\Compiler\LexicalAnalyzer\Debug\LexicalAnalyzer.exe
